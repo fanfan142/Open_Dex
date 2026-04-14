@@ -13996,5 +13996,4570 @@
       "robotic-manipulation",
       "robotics"
     ]
+  },
+  {
+    "id": "e36c6508-acf0-463f-b649-882be35a231f",
+    "name": "mink",
+    "repo_url": "https://github.com/kevinzakka/mink",
+    "description": "Python inverse kinematics based on MuJoCo",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": [
+          "RL"
+        ]
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "sim"
+    ]
+  },
+  {
+    "id": "4b90c70f-7efc-4fbd-a758-ddd364c18493",
+    "name": "Nintendo-Aloha",
+    "repo_url": "https://github.com/Stanford-IMAL/Nintendo-Aloha",
+    "description": "游戏手柄控制aloha双臂仿真运动",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": [
+          "RL"
+        ]
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "sim"
+    ]
+  },
+  {
+    "id": "dbe8c6fa-99c9-4cf1-a4b2-528e7c1019ad",
+    "name": "gym-aloha",
+    "repo_url": "https://github.com/Stanford-IMAL/gym-aloha",
+    "description": "A gym environment for ALOHA",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": [
+          "RL"
+        ]
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "sim"
+    ]
+  },
+  {
+    "id": "900f5742-b074-412e-abe7-65e50415de61",
+    "name": "mobile_aloha_sim",
+    "repo_url": "https://github.com/Stanford-IMAL/mobile_aloha_sim",
+    "description": "包含aloha的mujoco仿真",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": [
+          "RL"
+        ]
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "sim"
+    ]
+  },
+  {
+    "id": "5f2f63ad-680c-4372-a16a-f11d5ed45338",
+    "name": "Mobile-Aloha-MuJoCo",
+    "repo_url": "https://github.com/Stanford-IMAL/Mobile-Aloha-MuJoCo",
+    "description": "The model from official AgileX Robotics repo, the wheels now working properly.",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": [
+          "RL"
+        ]
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "sim"
+    ]
+  },
+  {
+    "id": "f2062069-4a38-4606-8900-8be04135a240",
+    "name": "mujoco_mpc",
+    "repo_url": "https://github.com/google-deepmind/mujoco_mpc",
+    "description": "Real-time behaviour synthesis with MuJoCo, using Predictive Control",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": [
+          "RL"
+        ]
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "sim"
+    ]
+  },
+  {
+    "id": "a62ebabe-f43e-4d54-aee7-0db24d8f0ec9",
+    "name": "robopianist",
+    "repo_url": "https://github.com/google-deepmind/robopianist",
+    "description": "[CoRL '23] Dexterous piano playing with deep reinforcement learning.",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": [
+          "RL"
+        ]
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "sim"
+    ]
+  },
+  {
+    "id": "b086277c-7a4d-449a-b9ca-a80729fa8801",
+    "name": "mujoco_scanned_objects",
+    "repo_url": "https://github.com/google-deepmind/mujoco_scanned_objects",
+    "description": "MuJoCo Models for Google's Scanned Objects Dataset",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": [
+          "RL"
+        ]
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "sim"
+    ]
+  },
+  {
+    "id": "99959421-8ff7-4b35-a5d8-64b2ed877895",
+    "name": "loco-mujoco",
+    "repo_url": "https://github.com/robfiras/loco-mujoco",
+    "description": "Imitation learning benchmark focusing on complex locomotion tasks using MuJoCo.",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": [
+          "RL"
+        ]
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "sim"
+    ]
+  },
+  {
+    "id": "5826c537-5c4b-4e5d-b105-6f613b0a1035",
+    "name": "myosuite",
+    "repo_url": "https://github.com/MyoHub/myosuite",
+    "description": "使用 MuJoCo 物理引擎模拟肌肉骨骼模型，并由 OpenAI gym应用程序接口封装。",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": [
+          "RL"
+        ]
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "sim"
+    ]
+  },
+  {
+    "id": "b8218493-43ce-4944-a7c2-83fd019aba9a",
+    "name": "balance-robot-mujoco-sim",
+    "repo_url": "https://github.com/balance-robot-mujoco-sim",
+    "description": "Simulation of a self balancing robot using an LQR controller implemented in Mujoco",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": [
+          "RL"
+        ]
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "sim"
+    ]
+  },
+  {
+    "id": "cd9a6d43-6aee-4c30-98e3-c2d24b16c1bc",
+    "name": "MuJoCo-Dual-Arm",
+    "repo_url": "https://github.com/MuJoCo-Dual-Arm",
+    "description": "双臂mujoco仿真",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": [
+          "RL"
+        ]
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "sim"
+    ]
+  },
+  {
+    "id": "2fb866d1-c94d-4605-8a2d-417bb10ae00c",
+    "name": "robohive",
+    "repo_url": "https://github.com/ARVRDevRepo/robohive",
+    "description": "RoboHive is a collection of environments/tasks simulated with the MuJoCo physics engine exposed using the OpenAI-Gym API.",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": [
+          "RL"
+        ]
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "sim"
+    ]
+  },
+  {
+    "id": "f97b8da9-36e0-4fdb-b043-23825e077440",
+    "name": "panda_mujoco_gym",
+    "repo_url": "https://github.com/ANRach/panda_mujoco_gym",
+    "description": "Open-Source Reinforcement Learning Environments Implemented in MuJoCo with Franka Manipulator",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": [
+          "RL"
+        ]
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "sim"
+    ]
+  },
+  {
+    "id": "61223b5f-fbf2-4d28-abc8-fd121548fa0d",
+    "name": "tactile_envs",
+    "repo_url": "https://github.com/carlosferrazza/tactile_envs",
+    "description": "触觉mujoco仿真",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": [
+          "RL"
+        ]
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "sim"
+    ]
+  },
+  {
+    "id": "6a86b061-07f4-48ba-a966-bf235d34e095",
+    "name": "torobo_mujoco",
+    "repo_url": "https://github.com/torobo_mujoco",
+    "description": "Torobo models and example scripts in MuJoCo",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": [
+          "RL"
+        ]
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "sim"
+    ]
+  },
+  {
+    "id": "cc870527-061a-4d9b-bd6c-b03cf2e23915",
+    "name": "robocasa",
+    "repo_url": "https://github.com/Stanford-RL/robocasa",
+    "description": "RoboCasa: Large-Scale Simulation of Everyday Tasks for Generalist Robots",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": [
+          "RL"
+        ]
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "sim"
+    ]
+  },
+  {
+    "id": "068f1d37-5697-4b7b-901a-4d24a1514376",
+    "name": "Genesis",
+    "repo_url": "https://github.com/Genesis-Robotics/Genesis",
+    "description": "A generative world for general-purpose robotics & embodied AI learning.",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": [
+          "RL"
+        ]
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "sim"
+    ]
+  },
+  {
+    "id": "f2cee075-ad20-407f-aaa3-3c250ae1417c",
+    "name": "Mujoco-Issues",
+    "repo_url": "https://github.com/OwnLab/Mujoco-Issues",
+    "description": "mujoco问题社区",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": [
+          "RL"
+        ]
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "sim"
+    ]
+  },
+  {
+    "id": "5a910549-1b9b-428f-9ca7-319c1c812048",
+    "name": "olympics-mujoco",
+    "repo_url": "https://github.com/OwnLab/olympics-mujoco",
+    "description": "基于Mujoco的仿真人形机器人平台",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": [
+          "RL"
+        ]
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "sim"
+    ]
+  },
+  {
+    "id": "8ead6c74-18c3-45d8-bc14-246bb573c00d",
+    "name": "MoCapAct",
+    "repo_url": "https://github.com/MethdArnt/MoCapAct",
+    "description": "A Multi-Task Dataset for Simulated Humanoid Control",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": [
+          "RL"
+        ]
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "sim"
+    ]
+  },
+  {
+    "id": "40eac650-d2cf-4031-be58-21bc9286318c",
+    "name": "fetch_freight_mujoco",
+    "repo_url": "https://github.com/fetch_freight_mujoco",
+    "description": "Mujoco xml model for the Fetch Robotics Freight mobile base + Panda arm",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": [
+          "RL"
+        ]
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "sim"
+    ]
+  },
+  {
+    "id": "d599c738-35a3-4ab6-9d6c-ce4e7e3396db",
+    "name": "cassie-sim-RL",
+    "repo_url": "https://github.com/cassie-sim-RL",
+    "description": "基于cassie-mujoco-sim，参考gym-cassie改的一个cassie行走仿真测试例子",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": [
+          "RL"
+        ]
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "sim"
+    ]
+  },
+  {
+    "id": "6bb00cbf-8d2f-48ed-a034-0e3856c1edb6",
+    "name": "Manipulator-Mujoco",
+    "repo_url": "https://github.com/imlabl/Manipulator-Mujoco",
+    "description": "Base Mujoco Gymnasium environment for easily controlling any robot arm with operational space control. Built with dm-control PyMJCF for easy configuration.",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": [
+          "RL"
+        ]
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "sim"
+    ]
+  },
+  {
+    "id": "9dfc6cdf-ee2e-41cf-9a55-e6d75023e379",
+    "name": "dual_ur5_husky_mujoco",
+    "repo_url": "https://github.com/dual_ur5_husky_mujoco",
+    "description": "Dual UR5 Husky Robot MuJoCo Model",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": [
+          "RL"
+        ]
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "sim"
+    ]
+  },
+  {
+    "id": "fe790a91-12e3-4504-bc9c-fe8f043cf281",
+    "name": "mjctrl",
+    "repo_url": "https://github.com/kevinzakka/mjctrl",
+    "description": "Minimal, clean, single-file implementations of common robotics controllers in MuJoCo.",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": [
+          "RL"
+        ]
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "sim"
+    ]
+  },
+  {
+    "id": "c0ba0d42-b675-482d-bd25-bfe5028dccec",
+    "name": "irl_control",
+    "repo_url": "https://github.com/kevinzakka/irl_control",
+    "description": "Mujoco Control Suite for Bimanual Manipulation",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": [
+          "RL"
+        ]
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "sim"
+    ]
+  },
+  {
+    "id": "50ce8a92-a5ef-4864-a446-d1bc3a99c63b",
+    "name": "stretch_mujoco",
+    "repo_url": "https://github.com/hello-robot/stretch_mujoco",
+    "description": "This library provides the simulation stack for Stretch with Mujoco.",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": [
+          "RL"
+        ]
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "sim"
+    ]
+  },
+  {
+    "id": "9af8747f-1a01-41d3-9877-514b5a7af8dc",
+    "name": "furniture_sim",
+    "repo_url": "https://github.com/kevinzakka/furniture_sim",
+    "description": "MuJoCo simulation for common furnitures",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": [
+          "RL"
+        ]
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "sim"
+    ]
+  },
+  {
+    "id": "befd3f88-701c-436e-89ad-c068310b76e3",
+    "name": "object_sim",
+    "repo_url": "https://github.com/kevinzakka/object_sim",
+    "description": "MuJoCo Models for general objects",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": [
+          "RL"
+        ]
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "sim"
+    ]
+  },
+  {
+    "id": "4b94f743-4673-4807-ab1f-a9f17a7e1750",
+    "name": "MujocoAR",
+    "repo_url": "https://github.com/OwnLab/MujocoAR",
+    "description": "A MuJoCo plugin that enables the integration of ARKit data from a connected iOS device to control MuJoCo frames in real-time",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": [
+          "RL"
+        ]
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "sim"
+    ]
+  },
+  {
+    "id": "f0eb7dd4-a6b2-42dd-88bd-336e41e78a64",
+    "name": "CustomMuJoCoEnviromentForRL",
+    "repo_url": "https://github.com/OwnLab/CustomMuJoCoEnviromentForRL",
+    "description": "This is a very simple example of creating and training your own MuJoCo environment using RL algorithms through the Gymnasium.",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": [
+          "RL"
+        ]
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "sim"
+    ]
+  },
+  {
+    "id": "3c554a11-5d78-4e46-9df2-05dcb7d432ad",
+    "name": "Mujoco_tutorial",
+    "repo_url": "https://github.com/OwnLab/Mujoco_tutorial",
+    "description": "工业界的角度记录 Mujoco 的一些经验和心得",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": [
+          "RL"
+        ]
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Beginner",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "sim"
+    ]
+  },
+  {
+    "id": "c3003175-3e75-4795-af3f-d922a2abcc91",
+    "name": "Metaworld",
+    "repo_url": "https://github.com/rl-lab-org/metaworld",
+    "description": "Collections of robotics environments geared towards benchmarking multi-task and meta reinforcement learning",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": [
+          "RL"
+        ]
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "sim"
+    ]
+  },
+  {
+    "id": "091c7b60-7e81-44a7-b80d-21b29f89e653",
+    "name": "DDPG_Mujoco",
+    "repo_url": "https://github.com/OwnLab/DDPG_Mujoco",
+    "description": "This project uses the DDPG algorithm for trajectory planning of a UR5E robotic arm in the MuJoCo simulation environment.",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": [
+          "RL"
+        ]
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "sim"
+    ]
+  },
+  {
+    "id": "b01da12e-307a-48d6-845e-3b8a2fbbc67a",
+    "name": "Quadrotor_SE3_Control",
+    "repo_url": "https://github.com/OwnLab/Quadrotor_SE3_Control",
+    "description": "四旋翼 SO3 SE3 姿态以及空间位点控制与跟踪 Mujoco仿真环境",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": [
+          "RL"
+        ]
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "sim"
+    ]
+  },
+  {
+    "id": "96b3eb00-49a4-49b0-bcad-bedd6860fe0c",
+    "name": "mujoco_camera_depth_test",
+    "repo_url": "https://github.com/OwnLab/mujoco_camera_depth_test",
+    "description": "A quick script to test the accuracy of the depth from an OpenGL camera visualized with MuJoCo.",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": [
+          "RL"
+        ]
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "sim"
+    ]
+  },
+  {
+    "id": "e1578401-339a-41d6-827a-483ae35d3c82",
+    "name": "mujoco_cable_sim_example",
+    "repo_url": "https://github.com/OwnLab/mujoco_cable_sim_example",
+    "description": "使用 Mujoco 物理引擎实现工业机器人线缆的物理仿真，探索线缆在机器人运动过程中的物理行为",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": [
+          "RL"
+        ]
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "sim"
+    ]
+  },
+  {
+    "id": "1cafda1b-84d8-4e96-a68b-da1d9a28247c",
+    "name": "mobile-manipulator",
+    "repo_url": "https://github.com/OwnLab/mobile-manipulator",
+    "description": "A repo for storing assets and description files for simulated mobile manipulators in MuJoCo",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": [
+          "RL"
+        ]
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "sim"
+    ]
+  },
+  {
+    "id": "7d38480e-3ae0-4e53-92a5-80ab7ce5f285",
+    "name": "mujoco_zoo",
+    "repo_url": "https://github.com/OwnLab/mujoco_zoo",
+    "description": "mujoco雷达仿真+两轮差速小车",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": [
+          "RL"
+        ]
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "sim"
+    ]
+  },
+  {
+    "id": "ecb1ddda-1aad-42b7-8bf4-7fbb6470bcb0",
+    "name": "wheel_legged_genesis",
+    "repo_url": "https://github.com/OwnLab/wheel_legged_genesis",
+    "description": "Reinforcement learning of wheel-legged robots based on Genesis",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": [
+          "RL"
+        ]
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "sim"
+    ]
+  },
+  {
+    "id": "7fd9372c-df1c-4852-889c-f5790bfa5d33",
+    "name": "Quadrotor-NMPC-Control",
+    "repo_url": "https://github.com/OwnLab/Quadrotor-NMPC-Control",
+    "description": "四旋翼高速NMPC控制 ACADOS",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": [
+          "RL"
+        ]
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "sim"
+    ]
+  },
+  {
+    "id": "3f35330a-06a0-429f-9899-20d4a831db95",
+    "name": "MujocoTutorials",
+    "repo_url": "https://github.com/OwnLab/MujocoTutorials",
+    "description": "这些教程涵盖了各种常见的机器人任务和控制器，全面介绍了如何使用 Mujoco 进行机器人仿真。",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": [
+          "RL"
+        ]
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "sim"
+    ]
+  },
+  {
+    "id": "2626bc59-6d93-4529-8c52-bcc934df344a",
+    "name": "bigym",
+    "repo_url": "https://github.com/OwnLab/bigym",
+    "description": "Demo-Driven Mobile Bi-Manual Manipulation Benchmark.",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": [
+          "RL"
+        ]
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "sim"
+    ]
+  },
+  {
+    "id": "3dc73ea1-fca7-4e20-96d0-f18a55732def",
+    "name": "mujoco-learning",
+    "repo_url": "https://github.com/LitchiCheng/mujoco-learning",
+    "description": "B站荔枝澄up的开源教学分享",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": [
+          "RL"
+        ]
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Beginner",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "sim"
+    ]
+  },
+  {
+    "id": "a8f5bad3-ab29-499e-95c6-aada267ed17f",
+    "name": "Kinova7DoF-MuJoCo",
+    "repo_url": "https://github.com/OwnLab/Kinova7DoF-MuJoCo",
+    "description": "This project is based on a Kinova robotic arm URDF converted to an MJCF format for MuJoCo simulation",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": [
+          "RL"
+        ]
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "sim"
+    ]
+  },
+  {
+    "id": "9c6d05de-51a4-4c59-9dfe-910bebe5b595",
+    "name": "manipulator_grasp",
+    "repo_url": "https://github.com/chaomingsanhua/manipulator_grasp",
+    "description": "目标抓取——GraspNet【B站up潮鸣散花】",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": [
+          "RL"
+        ]
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "sim"
+    ]
+  },
+  {
+    "id": "5b5b31d1-9ba9-4c3b-9861-f6d2e197ec3c",
+    "name": "mujoco_learning",
+    "repo_url": "https://github.com/OwnLab/mujoco_learning",
+    "description": "【教程】2025新版mujoco建模与仿真【B站up材机战士】",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": [
+          "RL"
+        ]
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Beginner",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "sim"
+    ]
+  },
+  {
+    "id": "8016c0c7-fc6a-4f7c-89b5-c1525bd9ad1f",
+    "name": "Rocket-LQR-Control",
+    "repo_url": "https://github.com/OwnLab/Rocket-LQR-Control",
+    "description": "液体火箭推力矢量LQR控制算法",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": [
+          "RL"
+        ]
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "sim"
+    ]
+  },
+  {
+    "id": "67e6c55a-a0b0-471a-8248-2d75c73e9e92",
+    "name": "RoboManipBaselines",
+    "repo_url": "https://github.com/OwnLab/RoboManipBaselines",
+    "description": "Software that integrates various imitation learning methods and benchmark task environments to provide baselines for robot manipulation",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": [
+          "RL"
+        ]
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "sim"
+    ]
+  },
+  {
+    "id": "b598ed28-c968-40a6-95c1-a6a3b726be9a",
+    "name": "holistic_motion_control",
+    "repo_url": "https://github.com/chengchy97/holistic_motion_control",
+    "description": "移动机器人整体控制【B站up潮鸣散花】",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": [
+          "RL"
+        ]
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "sim"
+    ]
+  },
+  {
+    "id": "c55a2578-7582-4def-b3df-ec79397e711f",
+    "name": "flybody",
+    "repo_url": "https://github.com/TuragaLab/flybody",
+    "description": "【Nature 2025】MuJoCo fruit fly body model and reinforcement learning tasks",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": [
+          "RL"
+        ]
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "sim"
+    ]
+  },
+  {
+    "id": "2f46c382-bd40-4c93-b538-22ecbe3a6ed4",
+    "name": "localization",
+    "repo_url": "https://github.com/chengchy97/localization",
+    "description": "SLAM--定位【B站up潮鸣散花】",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": [
+          "RL"
+        ]
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "sim"
+    ]
+  },
+  {
+    "id": "df52ccbc-bb09-4323-8550-004fb8e3e84c",
+    "name": "depRL",
+    "repo_url": "https://github.com/martius-lab/depRL",
+    "description": "DEP-RL：过度驱动和肌肉骨骼系统强化学习的具体探索",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": [
+          "RL"
+        ]
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "sim"
+    ]
+  },
+  {
+    "id": "0429b254-4cef-4ee8-be4e-b1c540840e04",
+    "name": "manipulation_on_the_move",
+    "repo_url": "https://github.com/chengchy97/manipulation_on_the_move",
+    "description": "Mujoco 单臂移动抓取【B站up潮鸣散花】",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": [
+          "RL"
+        ]
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "sim"
+    ]
+  },
+  {
+    "id": "137ccc33-4098-4477-9975-738ed8cc8c88",
+    "name": "Robot-control",
+    "repo_url": "https://github.com/Steventian-wen/Robot-control",
+    "description": "Various control algorithms for robots (mujoco)",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": [
+          "RL"
+        ]
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "sim"
+    ]
+  },
+  {
+    "id": "b72806ae-a4f3-4a96-91fc-d8e2b2de3c1c",
+    "name": "gmm",
+    "repo_url": "https://github.com/chaomingsanhua/gmm",
+    "description": "模仿学习--高斯混合模型gmm【B站up潮鸣散花】",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": [
+          "RL"
+        ]
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "sim"
+    ]
+  },
+  {
+    "id": "f9f9baf7-57b0-418d-9787-56a97a7822d1",
+    "name": "GUFIC_mujoco",
+    "repo_url": "https://github.com/chengchy97/GUFIC_mujoco",
+    "description": "Mujoco Implementation of Geometric Unified Force Impedance Control",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": [
+          "RL"
+        ]
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "sim"
+    ]
+  },
+  {
+    "id": "7ddba526-c397-4a4c-ada4-377e07145a31",
+    "name": "panda_mujoco_gym",
+    "repo_url": "https://github.com/ANRach/panda_mujoco_gym",
+    "description": "【Add train】Open-Source Reinforcement Learning Environments Implemented in MuJoCo with Franka Manipulator",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": [
+          "RL"
+        ]
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "sim"
+    ]
+  },
+  {
+    "id": "b61cb327-ae21-44f6-b9bc-e512f4a36c7a",
+    "name": "Tacchi",
+    "repo_url": "https://github.com/OwnLab/Tacchi",
+    "description": "用于光学触觉传感器的可插拔和快速凝胶变形模拟器。",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": [
+          "RL"
+        ]
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "sim"
+    ]
+  },
+  {
+    "id": "d1ee6fe6-b98c-48c1-bcd9-23704911751c",
+    "name": "RL-RRT-KDTree",
+    "repo_url": "https://github.com/chengchy97/RL-RRT-KDTree",
+    "description": "区域 RL-RRT：具有碰撞概率和区域连通性的集成 RL-RRT 路径规划",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": [
+          "RL"
+        ]
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "sim"
+    ]
+  },
+  {
+    "id": "8b63413a-1afb-4f4b-98c9-b9d7389baf79",
+    "name": "vo_icp",
+    "repo_url": "https://github.com/chengchy97/vo_icp",
+    "description": "机器视觉--视觉里程计【B站up潮鸣散花】",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": [
+          "RL"
+        ]
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "sim"
+    ]
+  },
+  {
+    "id": "2ce90aba-88aa-4a3a-b028-bf40464dec5f",
+    "name": "livelybot_pi_rl_baseline",
+    "repo_url": "https://github.com/HighTorque-Robotics/livelybot_pi_rl_baseline",
+    "description": "基于 NVIDIA Isaac Gym 的强化学习环境，对高擎机电的双足机器人 Pi Pi_rl_baseline 还整合了从 Isaac Gym 到 Mujoco 的sim2sim框架",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": [
+          "RL"
+        ]
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "sim"
+    ]
+  },
+  {
+    "id": "a96bcce6-38bb-40cf-81a7-6492473c98e5",
+    "name": "quadruped_rl",
+    "repo_url": "https://github.com/chengchy97/quadruped_rl",
+    "description": "quadruped reinforcement learning, includes train, sim2sim and sim2real",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": [
+          "RL"
+        ]
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "sim"
+    ]
+  },
+  {
+    "id": "eaf6b76f-9114-444f-b34b-ed24c743166e",
+    "name": "fleaven",
+    "repo_url": "https://github.com/OwnLab/fleaven",
+    "description": "人形机器人重映射Retarget数据集",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": [
+          "RL"
+        ]
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "sim"
+    ]
+  },
+  {
+    "id": "33ddeeb7-4967-452f-a30a-cc90152ac868",
+    "name": "mujoco_contact_surfaces",
+    "repo_url": "https://github.com/OwnLab/mujoco_contact_surfaces",
+    "description": "Implementation of drake contact surfaces in MuJoCo.",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": [
+          "RL"
+        ]
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "sim"
+    ]
+  },
+  {
+    "id": "36a530d1-43d0-43d5-b48c-7e718cee6256",
+    "name": "MoSim",
+    "repo_url": "https://github.com/OwnLab/MoSim",
+    "description": "[CVPR 2025] Neural Motion Simulator Pushing the Limit of World Models in Reinforcement Learning",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": [
+          "RL"
+        ]
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "sim"
+    ]
+  },
+  {
+    "id": "c3ba9c0f-07b0-425d-8949-38b5651ba2c3",
+    "name": "mujoco_mecanum",
+    "repo_url": "https://github.com/own-lab/mujoco_mecanum",
+    "description": "此代码实现了Mecanum车轮的碰撞模型，以模拟车轮的实际驾驶行为",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": [
+          "RL"
+        ]
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "sim"
+    ]
+  },
+  {
+    "id": "913c1c8b-d257-4928-89bf-14e1e279aa7d",
+    "name": "mpc_quadruped_mujoco",
+    "repo_url": "https://github.com/chengchy97/mpc_quadruped_mujoco",
+    "description": "【OCS2】最优控制-四足机器人【B站up潮鸣散花】",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": [
+          "RL"
+        ]
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "sim"
+    ]
+  },
+  {
+    "id": "56aa4baa-1b0d-4b6f-80fb-c8958f656b87",
+    "name": "mujoco_warp",
+    "repo_url": "https://github.com/google-deepmind/mujoco_warp",
+    "description": "GPU-optimized version of the MuJoCo physics simulator, designed for NVIDIA hardware.",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": [
+          "RL"
+        ]
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "sim"
+    ]
+  },
+  {
+    "id": "81446c7f-3506-492c-a544-0a35c589fe15",
+    "name": "myo_sim",
+    "repo_url": "https://github.com/OwnLab/myo_sim",
+    "description": "Musculoskeletal Models in MuJoCo",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": [
+          "RL"
+        ]
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "sim"
+    ]
+  },
+  {
+    "id": "0b66ede0-1f2f-43e0-90c0-c19e062466a2",
+    "name": "mc_mujoco",
+    "repo_url": "https://github.com/OwnLab/ mc_mujoco",
+    "description": "mc-mujoco: Simulating Articulated Robots with FSM Controllers in MuJoCo",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": [
+          "RL"
+        ]
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "sim"
+    ]
+  },
+  {
+    "id": "ef50c320-50e5-46d6-83ee-4b3d2b14b69f",
+    "name": "OpenBallBot-RL",
+    "repo_url": "https://github.com/OwnLab/OpenBallBot-RL",
+    "description": "Reinforcement Learning for Ballbot control in uneven terrain",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": [
+          "RL"
+        ]
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "sim"
+    ]
+  },
+  {
+    "id": "9f7a34aa-97f6-4575-a499-4dc8ac284a91",
+    "name": "Qbit",
+    "repo_url": "https://github.com/OwnLab/Qbit",
+    "description": "QBit: Quality-awared and cloud-based benchmarking for robotic insertion tasks",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": [
+          "RL"
+        ]
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "sim"
+    ]
+  },
+  {
+    "id": "ce046004-6c0a-41e8-b430-a362a36ba5a5",
+    "name": "SpaceOctopus",
+    "repo_url": "https://github.com/OwnLab/SpaceOctopus",
+    "description": "A MARL method for motion planning of free-floating space robot.",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": [
+          "RL"
+        ]
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "sim"
+    ]
+  },
+  {
+    "id": "43938a86-e07d-49d4-a527-0e4dd465191a",
+    "name": "MyoBack",
+    "repo_url": "https://github.com/OwnLab/MyoBack",
+    "description": "MyoBack model: Simulation of a neuromusculoskeletal model of the back with an exoskeleton",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": [
+          "RL"
+        ]
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "sim"
+    ]
+  },
+  {
+    "id": "5c9f908d-ced5-42dd-8f37-0587f9803535",
+    "name": "torch-fabrics",
+    "repo_url": "https://github.com/OwnLab/torch-fabrics",
+    "description": "Basic implementation of geometric fabrics using PyTorch",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": [
+          "RL"
+        ]
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "sim"
+    ]
+  },
+  {
+    "id": "18a469d7-b210-434b-a9a3-45c6fd99365c",
+    "name": "dexrobot_mujoco",
+    "repo_url": "https://github.com/DexLab/dexrobot_mujoco",
+    "description": "Tactile simulation for DexRobot hands in MuJoCo with ROS integration.",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": [
+          "RL"
+        ]
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "sim"
+    ]
+  },
+  {
+    "id": "779a2c4a-1cd7-4a47-b460-10e0b5be0943",
+    "name": "Simple",
+    "repo_url": "https://github.com/OwnLab/Simple",
+    "description": "The Simple Simulator: Simulation Made Simple",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": [
+          "RL"
+        ]
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "sim"
+    ]
+  },
+  {
+    "id": "a7ad4e75-a06e-481a-a0ab-f56f28ac74e4",
+    "name": "AdaptDiffuser",
+    "repo_url": "https://github.com/OwnLab/AdaptDiffuser",
+    "description": "[ICML'2023] \"AdaptDiffuser: Diffusion Models as Adaptive Self-evolving Planners\"",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": [
+          "RL"
+        ]
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "sim"
+    ]
+  },
+  {
+    "id": "869b4bb5-cc87-4d62-ac61-ca857516c46c",
+    "name": "Robust-Gymnasium",
+    "repo_url": "https://github.com/OwnLab/Robust-Gymnasium",
+    "description": "[ICLR 2025] Robust Gymnasium: A Unified Modular Benchmark for Robust Reinforcement Learning.",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": [
+          "RL"
+        ]
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "sim"
+    ]
+  },
+  {
+    "id": "02cc7496-3293-4762-9a92-18b557b3a983",
+    "name": "learning_fc",
+    "repo_url": "https://github.com/OwnLab/learning_fc",
+    "description": "[IROS 2024] Learning Force Control with 2-DoF Grippers",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": [
+          "RL"
+        ]
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Beginner",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "sim"
+    ]
+  },
+  {
+    "id": "cb94517c-27a0-4c67-a9c9-ffe2a9787705",
+    "name": "robohive",
+    "repo_url": "https://github.com/ARVRDevRepo/robohive",
+    "description": "RoboHive is a collection of environments/tasks simulated with the MuJoCo physics engine exposed using the OpenAI-Gym API.",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": [
+          "RL"
+        ]
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "sim"
+    ]
+  },
+  {
+    "id": "b5f77f98-6a23-48de-a703-6ebfe133599e",
+    "name": "rl-icub-dexterous-manipulation",
+    "repo_url": "https://github.com/OwnLab/rl-icub-dexterous-manipulation",
+    "description": "iCub Dexterous Manipulation with RL",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": [
+          "RL"
+        ]
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "sim"
+    ]
+  },
+  {
+    "id": "32dadd6c-40df-4e1d-bb7d-a022821e9f62",
+    "name": "TactiSim",
+    "repo_url": "https://github.com/OwnLab/TactiSim",
+    "description": "他山科技触觉模拟仿真平台使用手册",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": [
+          "RL"
+        ]
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "sim"
+    ]
+  },
+  {
+    "id": "d5c46852-0cd1-4e96-8944-c6e597c14292",
+    "name": "aloha_sim",
+    "repo_url": "https://github.com/Stanford-IMAL/aloha_sim",
+    "description": "Aloha Sim is a python library that defines the sim environment for the Aloha robot. It includes a collection of tasks for robot learning and evaluation.",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": [
+          "RL"
+        ]
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "sim"
+    ]
+  },
+  {
+    "id": "f9296007-1ec4-424d-a17b-9ad93886ab53",
+    "name": "imitation_learning_lerobot",
+    "repo_url": "https://github.com/Stanford-IMAL/imitation_learning_lerobot",
+    "description": "模仿学习【B站up潮鸣散花】",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": [
+          "RL"
+        ]
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Beginner",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "sim"
+    ]
+  },
+  {
+    "id": "0664bc65-feff-46a1-bc99-e810979661e3",
+    "name": "lerobot_aloha",
+    "repo_url": "https://github.com/Stanford-IMAL/lerobot_aloha",
+    "description": "lerobot aloha 【B站up潮鸣散花】",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": [
+          "RL"
+        ]
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "sim"
+    ]
+  },
+  {
+    "id": "47e92d3e-e1d4-4df3-b54a-4dc0880282af",
+    "name": "DISCOVERSE",
+    "repo_url": "https://github.com/OwnLab/DISCOVERSE",
+    "description": "Efficient Robot Simulation in Complex High-Fidelity Environments",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": [
+          "RL"
+        ]
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "sim"
+    ]
+  },
+  {
+    "id": "40101224-2d26-47a3-bf8b-3cbdab50f13d",
+    "name": "MuJoCo-LiDAR",
+    "repo_url": "https://github.com/OwnLab/MuJoCo-LiDAR",
+    "description": "High-Performance LiDAR Simulation for MuJoCo",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": [
+          "RL"
+        ]
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "sim"
+    ]
+  },
+  {
+    "id": "e24421d1-f299-403f-87fc-52859daca815",
+    "name": "RSR-MJX",
+    "repo_url": "https://github.com/OwnLab/RSR-MJX",
+    "description": "An Real-Sim-Real (RSR) Loop Framework for Generalizable Robotic Policy Transfer with Differentiable Simulation",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": [
+          "RL"
+        ]
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "sim"
+    ]
+  },
+  {
+    "id": "c6605405-9dc7-4dca-aa47-103752630a25",
+    "name": "user-in-the-box",
+    "repo_url": "https://github.com/OwnLab/user-in-the-box",
+    "description": "人机交互-生物力学-RL",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": [
+          "RL"
+        ]
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "sim"
+    ]
+  },
+  {
+    "id": "53dda463-7dc0-412f-bf70-87cafc38aad5",
+    "name": "lerobot-mujoco-tutorial",
+    "repo_url": "https://github.com/huggingface/lerobot-mujoco-tutorial",
+    "description": "LeRobot Tutorial with MuJoCo",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": [
+          "RL"
+        ]
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Beginner",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "sim"
+    ]
+  },
+  {
+    "id": "667d0184-4d13-4a39-ad38-5919e979f5c4",
+    "name": "GMR",
+    "repo_url": "https://github.com/OwnLab/GMR",
+    "description": "GMR: General Motion Retargeting. Retarget human motions into diverse humanoid robots in real time on CPU.",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": [
+          "RL"
+        ]
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "sim"
+    ]
+  },
+  {
+    "id": "b7512709-0a7e-4403-8a94-47a4ffc36403",
+    "name": "mujoco-humanoid-simulation",
+    "repo_url": "https://github.com/OwnLab/mujoco-humanoid-simulation",
+    "description": "MuJoCo人形机器人仿真控制系统",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": [
+          "RL"
+        ]
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "sim"
+    ]
+  },
+  {
+    "id": "3520474f-3f86-43bd-9d3e-df74e24e9179",
+    "name": "purejaxql",
+    "repo_url": "https://github.com/OwnLab/purejaxql",
+    "description": "Simple single-file baselines for Q-Learning in pure-GPU setting",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": [
+          "RL"
+        ]
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "sim"
+    ]
+  },
+  {
+    "id": "be195288-e075-4b3a-9c90-360b016daf80",
+    "name": "hilserl_sim",
+    "repo_url": "https://github.com/OwnLab/hilserl_sim",
+    "description": "Precise and Dexterous Robotic Manipulation via Human-in-the-Loop Reinforcement Learning",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": [
+          "RL"
+        ]
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "sim"
+    ]
+  },
+  {
+    "id": "64a02236-f8c8-4665-9bb0-12460d372c75",
+    "name": "convex_local_planner",
+    "repo_url": "https://github.com/chengchy97/convex_local_planner",
+    "description": "导航系统--局部规划器【B站up潮鸣散花】",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": [
+          "RL"
+        ]
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "sim"
+    ]
+  },
+  {
+    "id": "840f7eb6-82f6-401c-9a2d-dce739c2dcf5",
+    "name": "PhysX-Anything",
+    "repo_url": "https://github.com/OwnLab/PhysX-Anything",
+    "description": "PhysX-Anything: Simulation-Ready Physical 3D Assets from Single Image",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": [
+          "RL"
+        ]
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "sim"
+    ]
+  },
+  {
+    "id": "bc9f8289-557f-4acb-863f-c8c1a2193347",
+    "name": "bimanual_manipulation",
+    "repo_url": "https://github.com/OwnLab/bimanual_manipulation",
+    "description": "Dual Arm Manipulation",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": [
+          "RL"
+        ]
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "sim"
+    ]
+  },
+  {
+    "id": "b4067239-829a-4d9e-b02f-5bac48b76b32",
+    "name": "humanoid-policy-viewer",
+    "repo_url": "https://github.com/OwnLab/humanoid-policy-viewer",
+    "description": "Single-page Vue 3 + Vuetify app that runs a MuJoCo WebAssembly scene in the browser and drives it with an ONNX policy.",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": [
+          "RL"
+        ]
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "sim"
+    ]
+  },
+  {
+    "id": "bbd498f1-0fec-46cb-bf1f-067354429175",
+    "name": "mjlab_myosuite",
+    "repo_url": "https://github.com/mjlab/mjlab_myosuite",
+    "description": "MyoSuite to mjlab Integration",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": [
+          "RL"
+        ]
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "sim"
+    ]
+  },
+  {
+    "id": "3467e3fa-337e-46e2-8984-4d8d70f7a7f2",
+    "name": "RL-training-routines-for-Biomechanical-Models",
+    "repo_url": "https://github.com/OwnLab/RL-training-routines-for-Biomechanical-Models",
+    "description": "Increasing Interaction Fidelity: Training Routines for Biomechanical Models in HCI",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": [
+          "RL"
+        ]
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "sim"
+    ]
+  },
+  {
+    "id": "276e487f-f711-4ed7-bbfd-4f2c9ae6f0d3",
+    "name": "Beyondmimic_sim2sim_G1",
+    "repo_url": "https://github.com/OwnLab/Beyondmimic_sim2sim_G1",
+    "description": "使用beyondmimic训练的模型进行sim2sim测试",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": [
+          "RL"
+        ]
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "sim"
+    ]
+  },
+  {
+    "id": "56d080ae-932e-4f14-bb27-db03b18e52d5",
+    "name": "mujoco_ray_caster",
+    "repo_url": "https://github.com/OwnLab/mujoco_ray_caster",
+    "description": "基于mj_ray实现的raycaster传感器,raycaster的参数尽量贴近isaaclab 其中raycaster_src可以直接使用C++ API",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": [
+          "RL"
+        ]
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "sim"
+    ]
+  },
+  {
+    "id": "260ef321-b16e-4963-8b40-5dbdc2e631b0",
+    "name": "mjlab",
+    "repo_url": "https://github.com/mjlab/mjlab",
+    "description": "Isaac Lab API, powered by MuJoCo-Warp, for RL and robotics research.",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": [
+          "RL"
+        ]
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "sim"
+    ]
+  },
+  {
+    "id": "5dc8d184-fc97-4902-a9ec-dadd43d3a01b",
+    "name": "mjlab-homierl",
+    "repo_url": "https://github.com/mjlab-homierl",
+    "description": "Fork of mjlab which supports unitree H1 & robotiq_2f85, personal implementation of the locomotion policy training in \"HOMIE: Humanoid Loco-Manipulation with Isomorphic Exoskeleton Cockpit [RSS2025]\"",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": [
+          "RL"
+        ]
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "sim"
+    ]
+  },
+  {
+    "id": "b466518c-27f1-4af5-93f6-1736b8ed38fc",
+    "name": "anymal_c_velocity",
+    "repo_url": "https://github.com/OwnLab/anymal_c_velocity",
+    "description": "Integrating a custom robot (ANYmal C) with mjlab's velocity task",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": [
+          "RL"
+        ]
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "sim"
+    ]
+  },
+  {
+    "id": "c89f3406-9d19-4a1d-8066-a52c4ff31537",
+    "name": "MujocoRosUtils",
+    "repo_url": "https://github.com/OwnLab/MujocoRosUtils",
+    "description": "ROS-based MuJoCo utilities",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": [
+          "RL"
+        ]
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "sim"
+    ]
+  },
+  {
+    "id": "2c916a40-f0f7-4dc7-a62f-07729f394d7a",
+    "name": "mjswan",
+    "repo_url": "https://github.com/OwnLab/mjswan",
+    "description": "MuJoco Simulation on Web Assembly with Neural netwroks",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": [
+          "RL"
+        ]
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "sim"
+    ]
+  },
+  {
+    "id": "44fda622-203b-47bb-a391-4dcdbd637095",
+    "name": "openarm_mujoco",
+    "repo_url": "https://github.com/OwnLab/openarm_mujoco",
+    "description": "MuJoCo specification file and assets for OpenArm",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": [
+          "RL"
+        ]
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "sim"
+    ]
+  },
+  {
+    "id": "30499d8f-9022-4b02-b39a-89816b134fcb",
+    "name": "MujocoTactileSensorPlugin",
+    "repo_url": "https://github.com/OwnLab/MujocoTactileSensorPlugin",
+    "description": "Plugin to simulate tactile sensors in MuJoCo",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": [
+          "RL"
+        ]
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "sim"
+    ]
+  },
+  {
+    "id": "880a2a96-c626-4dad-b3aa-72f0cea80aad",
+    "name": "Tacto-Mujoco",
+    "repo_url": "https://github.com/OwnLab/Tacto-Mujoco",
+    "description": "Digit touch sensor simulation in Mujoco",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": [
+          "RL"
+        ]
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "sim"
+    ]
+  },
+  {
+    "id": "0df49102-7e39-4327-8bac-a5af54d62023",
+    "name": "TouchRot_DRL",
+    "repo_url": "https://github.com/OwnLab/TouchRot_DRL",
+    "description": "基于MuJoCo仿真和DRL算法的灵巧手手内物体旋转任务",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": [
+          "RL"
+        ]
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "sim"
+    ]
+  },
+  {
+    "id": "0a167790-3990-4984-9a18-a8c1690490be",
+    "name": "Shadow-Hand-Controller",
+    "repo_url": "https://github.com/OwnLab/Shadow-Hand-Controller",
+    "description": "Shadow-Hand Controller",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": [
+          "RL"
+        ]
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "sim"
+    ]
+  },
+  {
+    "id": "abbb3aaf-ac93-4521-9d7f-7335c3146eca",
+    "name": "AeroPiper",
+    "repo_url": "https://github.com/OwnLab/AeroPiper",
+    "description": "The AeroPiper repository provides end-to-end code and guidance to integrate the TetherIA Aero Hand with the AgileX PiPER 6‑DOF robotic arm in Mujoco.",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": [
+          "RL"
+        ]
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "sim"
+    ]
+  },
+  {
+    "id": "6974beaf-5058-4f8b-898b-6b76bb02dcbe",
+    "name": "TeleOp-BC",
+    "repo_url": "https://github.com/OwnLab/TeleOp-BC",
+    "description": "(手势推箱子-模仿学习)Imitation learning via behavior cloning in PyTorch using Mediapipe teleoperation data and MuJoCo simulation for robotic manipulation control policies.",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": [
+          "RL"
+        ]
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "sim"
+    ]
+  },
+  {
+    "id": "2d0e3e08-2e3d-48bb-a6e1-d31fca1cb7c9",
+    "name": "mujoco_playground",
+    "repo_url": "https://github.com/google-deepmind/mujoco_playground",
+    "description": "An open-source library for GPU-accelerated robot learning and sim-to-real transfer.",
+    "category": {
+      "simulation": {
+        "simulators": [],
+        "rl_frameworks": []
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "real"
+    ]
+  },
+  {
+    "id": "0c94a8e8-965f-4e43-94fa-00f49f334389",
+    "name": "tidybot2",
+    "repo_url": "https://github.com/jesseh/ tidybot2",
+    "description": "包含mujoco移动仿真",
+    "category": {
+      "simulation": {
+        "simulators": [],
+        "rl_frameworks": []
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "real"
+    ]
+  },
+  {
+    "id": "81c8b928-6df7-4b52-bc20-d77f99f3646b",
+    "name": "panda_mujoco",
+    "repo_url": "https://github.com/frankaemika/panda_mujoco",
+    "description": "MuJoCo model of the Franka Emika Robot System",
+    "category": {
+      "simulation": {
+        "simulators": [],
+        "rl_frameworks": []
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "real"
+    ]
+  },
+  {
+    "id": "98602041-f966-4cc2-8aa6-2dcf09a14234",
+    "name": "lerobot-joycon",
+    "repo_url": "https://github.com/huggingface/lerobot",
+    "description": "LeRobot-JoyCon: Making AI for Robotics more accessible and Portable with JoyCon",
+    "category": {
+      "simulation": {
+        "simulators": [],
+        "rl_frameworks": []
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "real"
+    ]
+  },
+  {
+    "id": "59b67f5a-f0ac-4eac-9c71-680efcfcaab5",
+    "name": "aloha",
+    "repo_url": "https://github.com/Stanford-IMAL/aloha",
+    "description": "斯坦福开源项目 Static ALOHA",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": [
+          "RL"
+        ]
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "sim&real"
+    ]
+  },
+  {
+    "id": "1a422539-3da5-4ee9-94b5-d11aae40f329",
+    "name": "act",
+    "repo_url": "https://github.com/tonyzhaozh/act",
+    "description": "模仿学习算法经典框架",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": [
+          "RL"
+        ]
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "sim&real"
+    ]
+  },
+  {
+    "id": "870d44ae-d74b-4c1a-b589-41e9dac74998",
+    "name": "act-plus-plus",
+    "repo_url": "https://github.com/tonyzhaozh/act-plus-plus",
+    "description": "act / diffusion",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": [
+          "RL"
+        ]
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "sim&real"
+    ]
+  },
+  {
+    "id": "b3fb2f4d-50ae-48dc-b7c1-b34722c6a6e5",
+    "name": "mobile-aloha",
+    "repo_url": "https://github.com/Stanford-IMAL/mobile-aloha",
+    "description": "斯坦福开源项目 Mobile ALOHA",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": [
+          "RL"
+        ]
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "sim&real"
+    ]
+  },
+  {
+    "id": "b9439259-4802-4582-8000-dd3fd44b181d",
+    "name": "av-aloha",
+    "repo_url": "https://github.com/Stanford-IMAL/av-aloha",
+    "description": "VR 主动视觉 aloha升级版",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": [
+          "RL"
+        ]
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "sim&real"
+    ]
+  },
+  {
+    "id": "07fc8e15-c60f-48cd-8f1f-79a1391aaf24",
+    "name": "lerobot",
+    "repo_url": "https://github.com/huggingface/lerobot",
+    "description": "LeRobot: Making AI for Robotics more accessible with end-to-end learning",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": [
+          "RL"
+        ]
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "sim&real"
+    ]
+  },
+  {
+    "id": "b51123dd-d767-44b0-ad27-23079284b580",
+    "name": "awe",
+    "repo_url": "https://github.com/lucys0/awe",
+    "description": "Waypoint-Based Imitation Learning for Robotic Manipulation",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": [
+          "RL"
+        ]
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "sim&real"
+    ]
+  },
+  {
+    "id": "e9aefb0a-f556-498f-95b2-545673c96714",
+    "name": "lerobot-kinematics",
+    "repo_url": "https://github.com/huggingface/lerobot",
+    "description": "lerobot kinematics repository",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": [
+          "RL"
+        ]
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "sim&real"
+    ]
+  },
+  {
+    "id": "b79e92da-efe7-4099-964b-43d127bfef9b",
+    "name": "unitree_rl_gym",
+    "repo_url": "https://github.com/unitreerobotics/unitree_rl_gym",
+    "description": "This is a repository for reinforcement learning implementation based on Unitree robots, supporting Unitree Go2, H1, H1_2, and G1.",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": [
+          "RL"
+        ]
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "sim&real"
+    ]
+  },
+  {
+    "id": "8aed7d8d-c22a-417b-a11a-dcbbf9d28e1a",
+    "name": "mujoco_mpc_deploy",
+    "repo_url": "https://github.com/google-deepmind/mujoco_mpc",
+    "description": "MuJoCo 腿式机器人的全身模型预测控制",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": [
+          "RL"
+        ]
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "sim&real"
+    ]
+  },
+  {
+    "id": "0c8a7f0f-344c-46b5-8a16-a9b51f085b57",
+    "name": "DDAT",
+    "repo_url": "https://github.com/UCL-RL/DDAT",
+    "description": "Official Code Repository for DDAT: Diffusion Policies Enforcing Dynamically Admissible Robot Trajectories",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": [
+          "RL"
+        ]
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "sim&real"
+    ]
+  },
+  {
+    "id": "cfbf0c45-e8b4-49bf-ac64-0dfa30996c0d",
+    "name": "FastTD3",
+    "repo_url": "https://github.com/ownd-ai/FastTD3",
+    "description": "FastTD3 - Simple and Fast RL for Humanoid Control",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": [
+          "RL"
+        ]
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "sim&real"
+    ]
+  },
+  {
+    "id": "fefcb5c0-bad5-4fb3-be96-04002ca14d6b",
+    "name": "openpi",
+    "repo_url": "https://github.com/physical-intelligence/openpi",
+    "description": "openpi holds open-source models and packages for robotics, published by the Physical Intelligence team.",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": [
+          "RL"
+        ]
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "sim&real"
+    ]
+  },
+  {
+    "id": "c093b2c5-7ccd-46a4-8a40-618a8da50379",
+    "name": "unitree_mujoco",
+    "repo_url": "https://github.com/unitreerobotics/unitree_mujoco",
+    "description": "unitree_mujoco is a simulator developed based on Unitree sdk2 and mujoco.",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": [
+          "RL"
+        ]
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "sim&real"
+    ]
+  },
+  {
+    "id": "1181d94e-7d41-4f01-a6ca-c42a170ddd99",
+    "name": "OpenHomie",
+    "repo_url": "https://github.com/Stanford-RL/OpenHomie",
+    "description": "【RSS 2025 外骨骼驾驶舱】Open-sourced code for \"HOMIE: Humanoid Loco-Manipulation with Isomorphic Exoskeleton Cockpit\".",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": [
+          "RL"
+        ]
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "sim&real"
+    ]
+  },
+  {
+    "id": "01a2121d-b940-416c-9acc-1446c9bb7335",
+    "name": "rpc",
+    "repo_url": "https://github.com/rpc",
+    "description": "Robot Planning, Control, and Deployment (rpc)",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": [
+          "RL"
+        ]
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "sim&real"
+    ]
+  },
+  {
+    "id": "e79c6c6e-6691-4101-b517-b79c051abb47",
+    "name": "STF_touch_visualization",
+    "repo_url": "https://github.com/StanfordR/STF_touch_visualization",
+    "description": "智能触觉布料",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": [
+          "RL"
+        ]
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "sim&real"
+    ]
+  },
+  {
+    "id": "31d87d54-342c-454b-ad72-e5bcb8946f35",
+    "name": "zero-robotic-arm",
+    "repo_url": "https://github.com/zero- robo/zero-robotic-arm",
+    "description": "零一造物_ZERO机械臂",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": [
+          "RL"
+        ]
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "sim&real"
+    ]
+  },
+  {
+    "id": "cc68f225-60d9-4d4f-92eb-dd2054f16dd1",
+    "name": "osmo_tactile_glove",
+    "repo_url": "https://github.com/0sLab/osmo_tactile_glove",
+    "description": "Open source tactile glove for robotics research",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": [
+          "RL"
+        ]
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "sim&real"
+    ]
+  },
+  {
+    "id": "6a55604b-7779-4963-b89f-0eeb6d0155ad",
+    "name": "in-hand-rotation-mjlab",
+    "repo_url": "https://github.com/Stanford-RL/in-hand-rotation-mjlab",
+    "description": "Sim-to-real RL for in-hand cube rotation with the LEAP Hand, built on Mjlab.",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": [
+          "RL"
+        ]
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "sim&real"
+    ]
+  },
+  {
+    "id": "9b24b7fb-5239-474b-9105-24617e9e7f12",
+    "name": "mjlab_upkie",
+    "repo_url": "https://github.com/mjlab/mjlab_upkie",
+    "description": "This repository contains Reinforcement Learning (RL) environments for the Upkie robot.",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": [
+          "RL"
+        ]
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "sim&real"
+    ]
+  },
+  {
+    "id": "98a88b64-f63e-4c40-8c93-c3f946314064",
+    "name": "g1_spinkick_example",
+    "repo_url": "https://github.com/unitreerobotics/g1_spinkick_example",
+    "description": "Train a Unitree G1 humanoid to perform a double spin kick using mjlab",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": [
+          "RL"
+        ]
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "sim&real"
+    ]
+  },
+  {
+    "id": "1b2f2827-7098-4efc-9cce-fe2e1d070848",
+    "name": "AmazingHand",
+    "repo_url": "https://github.com/Stanford-RL/AmazingHand",
+    "description": "Amazing Hand project",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": [
+          "RL"
+        ]
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "sim&real"
+    ]
+  },
+  {
+    "id": "42e04831-8814-44d1-a031-a8b293ecc6bd",
+    "name": "easy-rl",
+    "repo_url": "https://github.com/datawhalechina/easy-rl",
+    "description": "强化学习中文教程（蘑菇书🍄），在线阅读",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": []
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "other"
+    ]
+  },
+  {
+    "id": "7704ad42-29cd-474d-bc04-b89a6c97152d",
+    "name": "External-Attention-pytorch",
+    "repo_url": "https://github.com/FlyingFeng/External-Attention-pytorch",
+    "description": "FightingCV 代码库， 包含 Attention,Backbone, MLP, Re-parameter, Convolution",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": []
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "other"
+    ]
+  },
+  {
+    "id": "ca5aba77-6eb0-4ac0-8e27-eddb57ea9517",
+    "name": "guyueclass",
+    "repo_url": "https://github.com/Charrin/ guyueclass",
+    "description": "古月学院课程代码",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": []
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "other"
+    ]
+  },
+  {
+    "id": "172afe9d-3514-4500-9487-c9b8fe1e39b4",
+    "name": "tianshou",
+    "repo_url": "https://github.com/thistuple/tianshou",
+    "description": "An elegant PyTorch deep reinforcement learning library.",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": []
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "other"
+    ]
+  },
+  {
+    "id": "eb22c8ae-7b05-4eea-a368-6b363cadc4bf",
+    "name": "PlugNPlay-Modules",
+    "repo_url": "https://github.com/OwnLab/PlugNPlay-Modules",
+    "description": "全网最全最新的即插即用模块：目前进度70％ 包括卷积 注意力机制 下采样 特征融合模块等",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": []
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "other"
+    ]
+  },
+  {
+    "id": "bb1e9aa3-354c-434c-b821-cff35ac65071",
+    "name": "robobase",
+    "repo_url": "https://github.com/robobase/robobase",
+    "description": "Robot Learning Baselines （适配 bigym）",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": []
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "other"
+    ]
+  },
+  {
+    "id": "2945dfce-9d01-45d7-89ed-6853b1916c75",
+    "name": "开源论文",
+    "repo_url": "https://github.com/OwnLab/开源论文",
+    "description": "【领域论文】EI具身智能&VLA机器人开源论文总结",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": []
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "other"
+    ]
+  },
+  {
+    "id": "1d37fe41-3d47-4e29-986f-7430ab00d5f8",
+    "name": "MuJoCo教程",
+    "repo_url": "https://github.com/OwnLab/MuJoCo教程",
+    "description": "材机战士",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": []
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "other"
+    ]
+  },
+  {
+    "id": "89db1b69-210e-4582-95f0-8f81030fcbfc",
+    "name": "RoboVerse",
+    "repo_url": "https://github.com/OwnLab/RoboVerse",
+    "description": "【RSS 2025】RoboVerse：面向可扩展和可推广机器人学习的统一平台、数据集和基准",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": []
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "other"
+    ]
+  },
+  {
+    "id": "75167d04-34d8-4f0a-b636-e90f3052b96c",
+    "name": "Open-Resource-via-Mujoco-Related-Engines",
+    "repo_url": "https://github.com/OwnLab/Open-Resource-via-Mujoco-Related-Engines",
+    "description": "此存储库收录了一系列基于 MuJoCo 及类似引擎（例如 Mjx、Genesis 和即将推出的 Newton）构建的项目",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": []
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "other"
+    ]
+  },
+  {
+    "id": "c4195cbc-9417-47af-9e50-60d90aae0a15",
+    "name": "Embodied-AI-Guide",
+    "repo_url": "https://github.com/Evensgn/Embodied-AI-Guide",
+    "description": "具身智能技术指南 Embodied-AI-Guide",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": []
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "other"
+    ]
+  },
+  {
+    "id": "2124d0fe-4248-4312-8b29-8ef18b3adbe7",
+    "name": "深入浅出强化学习",
+    "repo_url": "https://github.com/OwnLab/深入浅出强化学习",
+    "description": "四足RL sim2sim",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": []
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "other"
+    ]
+  },
+  {
+    "id": "b8055740-255b-4a5c-b089-899fc60d39db",
+    "name": "whole_body_tracking",
+    "repo_url": "https://github.com/OwnLab/whole_body_tracking",
+    "description": "BeyondMimic Motion Tracking Code",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": []
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "other"
+    ]
+  },
+  {
+    "id": "6a964839-678a-424c-8e2a-636e1d5100cb",
+    "name": "every-embodied",
+    "repo_url": "https://github.com/EveryAG/EveryAG",
+    "description": "仅需Python基础，从0构建自己的具身智能机器人；从0逐步构建VLA/OpenVLA/SmolVLA/Pi0， 深入理解具身智能",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": []
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "other"
+    ]
+  },
+  {
+    "id": "a4aa6b87-95ea-4e61-b153-041b59dc59df",
+    "name": "mujoco-simulation-env-generator-v2",
+    "repo_url": "https://github.com/OwnLab/mujoco-simulation-env-generator-v2",
+    "description": "基于 MuJoCo 的 Unitree G1 人形机器人仿真环境，支持 29 自由度本体，可选 Dex3 灵巧手配置，可生成多种室内场景进行抓取、操作任务仿真。",
+    "category": {
+      "simulation": {
+        "simulators": [
+          "MuJoCo"
+        ],
+        "rl_frameworks": []
+      }
+    },
+    "tech_stack": [
+      "Python",
+      "MuJoCo"
+    ],
+    "language": "Python",
+    "stars": 0,
+    "last_updated": "2026-04-14T12:00:00Z",
+    "difficulty": "Intermediate",
+    "verification_status": "Unverified",
+    "tags": [
+      "MuJoCo",
+      "other"
+    ]
   }
 ]
