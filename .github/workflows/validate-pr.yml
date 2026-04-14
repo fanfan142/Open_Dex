@@ -1,0 +1,29 @@
+name: Data Schema Validation
+
+on:
+  pull_request:
+    paths:
+      - 'public/data/projects.json'
+    branches:
+      - main
+
+jobs:
+  validate:
+    name: Validate Data Schema
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install Dependencies
+        run: npm ci
+
+      - name: Run Zod Validator
+        run: npx ts-node scripts/validate-data.ts

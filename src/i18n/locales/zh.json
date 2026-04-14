@@ -1,0 +1,101 @@
+{
+  "app": {
+    "name": "灵巧手导航",
+    "description": "灵巧手开源资料导航平台"
+  },
+  "header": {
+    "searchPlaceholder": "搜索项目...",
+    "toggleTheme": "切换主题",
+    "toggleLanguage": "切换语言",
+    "github": "GitHub 仓库"
+  },
+  "sidebar": {
+    "filterTitle": "筛选",
+    "clearAll": "清除全部"
+  },
+  "filter": {
+    "learningParadigm": "学习范式",
+    "simulator": "仿真器",
+    "verificationStatus": "验证状态",
+    "difficulty": "难度等级",
+    "programmingLanguage": "编程语言",
+    "driveType": "驱动方式",
+    "transmission": "传动方式"
+  },
+  "filterTags": {
+    "activeFilters": "当前筛选",
+    "clearAll": "清除全部"
+  },
+  "viewToggle": {
+    "table": "表格视图",
+    "card": "卡片视图"
+  },
+  "sort": {
+    "stars": "Stars",
+    "last_updated": "更新时间",
+    "name": "名称",
+    "difficulty": "难度"
+  },
+  "search": {
+    "search": "搜索"
+  },
+  "table": {
+    "name": "项目名称",
+    "description": "项目描述",
+    "techStack": "技术栈",
+    "learningParadigm": "学习范式",
+    "simulator": "仿真器",
+    "stars": "Stars",
+    "difficulty": "难度",
+    "status": "状态",
+    "actions": "操作"
+  },
+  "card": {
+    "learningParadigm": "学习范式",
+    "simulator": "仿真器",
+    "paper": "论文"
+  },
+  "grid": {
+    "empty": "暂无项目"
+  },
+  "explorer": {
+    "searchPlaceholder": "按名称、描述或标签搜索...",
+    "resultsCount": "共 {count} 个项目",
+    "loadError": "加载项目失败",
+    "retry": "重试",
+    "empty": "暂无项目",
+    "goHome": "返回首页",
+    "noResults": "没有符合筛选条件的项目",
+    "clearFilters": "清除筛选"
+  },
+  "home": {
+    "title": "灵巧手开源导航",
+    "subtitle": "面向全球机器人研究者的灵巧操作资源索引枢纽",
+    "explore": "探索项目",
+    "contribute": "参与贡献",
+    "stats": {
+      "totalProjects": "项目总数",
+      "verified": "已验证",
+      "partial": "部分复现",
+      "simulators": "仿真器"
+    },
+    "categories": {
+      "title": "分类导航",
+      "reinforcement": "强化学习",
+      "reinforcementDesc": "基于强化学习的灵巧操作",
+      "vla": "VLA 模型",
+      "vlaDesc": "视觉-语言-动作模型",
+      "sim2real": "Sim-to-Real",
+      "sim2realDesc": "仿真到现实迁移"
+    },
+    "popular": {
+      "title": "热门项目"
+    }
+  },
+  "footer": {
+    "allRightsReserved": "版权所有",
+    "description": "机器人研究开源资源",
+    "dataSource": "数据来源",
+    "reportIssue": "反馈问题"
+  }
+}

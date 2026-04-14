@@ -1,0 +1,39 @@
+{
+  "name": "dexhand-opensource-hub",
+  "version": "1.0.0",
+  "description": "灵巧手开源资料导航项目 - 面向全球机器人研究者的公共平台",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vue-tsc && vite build",
+    "preview": "vite preview",
+    "type-check": "vue-tsc --noEmit",
+    "lint": "eslint . --ext .vue,.js,.jsx,.cjs,.mjs,.ts,.tsx,.cts,.mts --fix",
+    "validate-data": "npx ts-node scripts/validate-data.ts"
+  },
+  "dependencies": {
+    "vue": "^3.4.21",
+    "vue-router": "^4.3.0",
+    "pinia": "^2.1.7",
+    "element-plus": "^2.5.6",
+    "@element-plus/icons-vue": "^2.3.1",
+    "@vueuse/core": "^10.9.0",
+    "fuse.js": "^7.0.0",
+    "zod": "^3.22.4",
+    "vue-i18n": "^9.10.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.4",
+    "typescript": "^5.4.2",
+    "vite": "^5.1.6",
+    "vue-tsc": "^2.0.6",
+    "sass": "^1.71.1",
+    "unplugin-vue-components": "^0.26.0",
+    "unplugin-auto-import": "^0.17.5",
+    "@types/node": "^20.11.24",
+    "ts-node": "^10.9.2"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "app": {
+    "name": "DexHand Hub",
+    "description": "Dexterous Hand Open Source Navigation"
+  },
+  "header": {
+    "searchPlaceholder": "Search projects...",
+    "toggleTheme": "Toggle theme",
+    "toggleLanguage": "Toggle language",
+    "github": "GitHub Repository"
+  },
+  "sidebar": {
+    "filterTitle": "Filters",
+    "clearAll": "Clear all"
+  },
+  "filter": {
+    "learningParadigm": "Learning Paradigm",
+    "simulator": "Simulator",
+    "verificationStatus": "Verification Status",
+    "difficulty": "Difficulty",
+    "programmingLanguage": "Language",
+    "driveType": "Drive Type",
+    "transmission": "Transmission"
+  },
+  "filterTags": {
+    "activeFilters": "Active filters",
+    "clearAll": "Clear all"
+  },
+  "viewToggle": {
+    "table": "Table view",
+    "card": "Card view"
+  },
+  "sort": {
+    "stars": "Stars",
+    "last_updated": "Last updated",
+    "name": "Name",
+    "difficulty": "Difficulty"
+  },
+  "search": {
+    "search": "Search"
+  },
+  "table": {
+    "name": "Project",
+    "description": "Description",
+    "techStack": "Tech Stack",
+    "learningParadigm": "Learning",
+    "simulator": "Simulator",
+    "stars": "Stars",
+    "difficulty": "Difficulty",
+    "status": "Status",
+    "actions": "Actions"
+  },
+  "card": {
+    "learningParadigm": "Learning",
+    "simulator": "Simulator",
+    "paper": "Paper"
+  },
+  "grid": {
+    "empty": "No projects found"
+  },
+  "explorer": {
+    "searchPlaceholder": "Search by name, description, or tags...",
+    "resultsCount": "{count} projects found",
+    "loadError": "Failed to load projects",
+    "retry": "Retry",
+    "empty": "No projects available",
+    "goHome": "Go to Home",
+    "noResults": "No results match your filters",
+    "clearFilters": "Clear filters"
+  },
+  "home": {
+    "title": "DexHand Open Source Hub",
+    "subtitle": "A comprehensive navigation platform for dexterous manipulation research resources",
+    "explore": "Explore Projects",
+    "contribute": "Contribute",
+    "stats": {
+      "totalProjects": "Total Projects",
+      "verified": "Verified",
+      "partial": "Partial",
+      "simulators": "Simulators"
+    },
+    "categories": {
+      "title": "Categories",
+      "reinforcement": "Reinforcement Learning",
+      "reinforcementDesc": "RL-based dexterous manipulation",
+      "vla": "VLA Models",
+      "vlaDesc": "Vision-Language-Action models",
+      "sim2real": "Sim-to-Real",
+      "sim2realDesc": "Simulation to real world transfer",
+      "title": "Popular Projects"
+    }
+  },
+  "footer": {
+    "allRightsReserved": "All rights reserved",
+    "description": "Open source resources for robotics research",
+    "dataSource": "Data Source",
+    "reportIssue": "Report Issue"
+  }
+}
