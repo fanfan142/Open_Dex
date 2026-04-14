@@ -14,7 +14,7 @@
           GitHub
         </el-link>
         <el-divider direction="vertical" />
-        <el-link href="/data/projects.json" target="_blank">
+        <el-link :href="dataSourceLink" target="_blank">
           {{ t('footer.dataSource') }}
         </el-link>
         <el-divider direction="vertical" />
@@ -31,6 +31,7 @@ import { computed } from 'vue';
 import { useI18n } from 'vue-i18n';
 
 const { t } = useI18n();
+const dataSourceLink = `${import.meta.env.BASE_URL || '/'}data/projects.json`;
 
 const currentYear = computed(() => new Date().getFullYear());
 </script>

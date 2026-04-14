@@ -15,7 +15,7 @@ if (!fs.existsSync(DATA_FILE_PATH)) {
   process.exit(1);
 }
 
-let rawData: string;
+let rawData;
 try {
   rawData = fs.readFileSync(DATA_FILE_PATH, 'utf-8');
 } catch (error) {
@@ -23,7 +23,7 @@ try {
   process.exit(1);
 }
 
-let jsonData: unknown;
+let jsonData;
 try {
   jsonData = JSON.parse(rawData);
 } catch (error) {
@@ -37,7 +37,7 @@ if (!Array.isArray(jsonData)) {
   process.exit(1);
 }
 
-const projects = jsonData as any[];
+const projects = jsonData;
 
 console.log(`总计 ${projects.length} 个项目\n`);
 
